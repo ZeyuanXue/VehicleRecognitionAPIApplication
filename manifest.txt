@@ -1,0 +1,2 @@
+Main-Class: RecCar
+Class-Path: ./libs/javax-json-1.0.jar
