@@ -7,15 +7,15 @@ Finally, the response will be parsed and stored into output.csv file and the app
 
 ## How to compile:
 For Mac, in the root directory of the project, use command:
-      ```
-      javac -cp .:libs/javax.json-1.0.jar RecCar.java
-      ```
+```
+javac -cp .:libs/javax.json-1.0.jar RecCar.java
+```
 
 ## How to run:
 For mac in the root directory of the project, after copied the image(s) into image folder, use command:
-      ```
-      java -cp .:libs/javax.json-1.0.jar RecCar
-      ```
+```
+java -cp .:libs/javax.json-1.0.jar RecCar
+```
 ## Other
 Note: For windows users, the relative path of image would be different and the compile command also may differ.
 
