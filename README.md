@@ -16,8 +16,8 @@ For mac in the root directory of the project, after copied the image(s) into ima
 ```
 java -cp .:libs/javax.json-1.0.jar RecCar
 ```
-## Other
 Note: For windows users, the relative path of image would be different and the compile command also may differ.
+## Other
 
 This application is only for development and testings. No commercial use.
 API : Sighthound Could API Development License
