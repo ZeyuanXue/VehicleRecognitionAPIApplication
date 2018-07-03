@@ -1,8 +1,8 @@
 
-This is a applicatoin that using Sighthound Vehice Recognition API to achieve massive file process.
+This is a application that using Sighthound Vehicle Recognition API to achieve massive file process.
 The application read files from image folder and transfer each image file to binary stream one at a time.
 Then the binary stream with headers will be send to API server using POST method.
-Finally, the response will be parsed and stored into output.csv file and the application will go to next itereation, next image.
+Finally, the response will be parsed and stored into output.csv file and the application will go to next iteration, next image.
 
 How to compile:
 For Mac, in the root directory of the project, use command:
